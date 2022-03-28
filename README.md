@@ -17,6 +17,6 @@
 
 
 
-![twitter]: https://twitter.com/bynutsu
+<a href="https://twitter.com/bynutsu" target="blan">img align="left" alt="Visual Studio Code" width="26px" src="file:///C:/Users/georg/Downloads/icons8-instagram.svg" style="padding-right:10px;" />
 ![instagram]: https://instagram.com/bynutsu
 ![linkedin]: https://linkedin.com/in/bynutsu
