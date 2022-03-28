@@ -3,8 +3,8 @@
 ## I'm a Student at BTU  and Java Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content developers.
-- ⚡ Fun fact: I love to draw and drums
+- 👯 I’m looking to collaborate with other developers.
+- ⚡ Fun fact: I love to draw and drums.
 
 ### Connect with me:
 
