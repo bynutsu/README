@@ -1,6 +1,6 @@
 # Hi there, I'm George - 👋 
 
-## I'm a Student at BTU  and Java Developer!!
+## I'm a Student at BTU!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers.
